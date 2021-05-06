@@ -5,4 +5,4 @@ HTD là công ty chuyên kinh doanh các thiết bị công nghệ mới, đồ 
 # Số điện thoại
 0877346868
 # Sản phẩm HOT nhất
-Sản phẩm hot nhất hiện tại mà công ty HTD phân phối đến khách hàng của mình là (https://htd.net.vn/carplay-ai-box/)[Smart Carplay AI Box]
+Sản phẩm hot nhất hiện tại mà công ty HTD phân phối đến khách hàng của mình là https://htd.net.vn/carplay-ai-box/
